@@ -1,0 +1,2 @@
+# hardware_xiaomi
+COMMON XIAOMI HARDWARE COMPONENT
